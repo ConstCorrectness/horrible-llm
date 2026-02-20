@@ -1,0 +1,15 @@
+[project]
+name = "horrible-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "jupyterlab>=4.5.4",
+    "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
+    "sympy>=1.14.0",
+    "tokenizers>=0.22.2",
+    "torch>=2.10.0",
+]
