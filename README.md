@@ -10,6 +10,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-API%20v1-green.svg)](https://beta.openai.com/docs/api-reference/introduction)
 
 
+
 ```python
 
 from horriblellm.horriblellm import HorribleLLM, HORRIBLE_CONFIG_06_B
